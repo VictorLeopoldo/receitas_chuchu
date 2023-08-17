@@ -1,9 +1,12 @@
 h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Verdana, 'Arial Narrow Bold', sans-serif;
     font-size: 54px;
-    color: blanchedalmond;
+    color: rgb(31, 13, 29);
+    text-align: center;
 }
 
 body {
-    background-color: blueviolet;
+    background-color: rgb(238, 157, 171);
+    width: 80%;
+    margin: auto;
 }

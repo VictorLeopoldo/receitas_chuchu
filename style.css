@@ -9,4 +9,13 @@ body {
     background-color: rgb(238, 157, 171);
     width: 80%;
     margin: auto;
+    margin-bottom: 56px;
+}
+.beterrabas{
+    width: 700px;
+    height: 200px;
+}
+.danca{
+    float: left;
+    height: 200px;
 }

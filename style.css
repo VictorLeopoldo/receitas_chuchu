@@ -3,17 +3,25 @@ h1 {
     font-size: 54px;
     color: rgb(31, 13, 29);
     text-align: center;
+    color: rgb(92, 9, 20);
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 body {
     background-color: rgb(238, 157, 171);
-    width: 80%;
+    width: 900px;
     margin: auto;
     margin-bottom: 56px;
+    font-size: 25px;
+    text-align: justify;
+    
 }
 .beterrabas{
-    width: 700px;
-    height: 200px;
+    width: 900px;
+    height: 400px;
+    
+    
 }
 .danca{
     float: left;
@@ -21,7 +29,8 @@ body {
 }
 
 .menu{
-    text-align: center;
+    text-align: left;
+    width: 100%;
 }
 .menu li {
     list-style: none;
@@ -29,6 +38,7 @@ body {
     
 }
 .menu a{
+    margin-top: 0px;
     padding: 16px;
     display: block;
     background-color: rgb(161, 23, 99);
@@ -41,4 +51,10 @@ body {
     background-color: rgb(238, 126, 214);
     text-decoration: none;
     color: blanchedalmond;
+    border: 2px;
+    border:solid;
+}
+
+p{
+    text-indent: 20px;
 }
